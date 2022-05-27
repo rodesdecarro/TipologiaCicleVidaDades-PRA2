@@ -6,3 +6,5 @@ En aquesta pràctica analitzam el fitxer <b>winequality-red.csv</b> (obtingut de
 Podem veure el resultat de l'estudi i la contestació de totes les preguntes en el fitxer <b>PRA2.pdf</b>.
 
 El fitxer <b>PRA2.Rmd</b> conté el codi utilitzat per realitzar la pràctca, usant R Markdown. El fitxer <b>PRA2.html</b> conté la sortida d'executar el codi.
+
+El vídeo de la pràctica es troba aquí: https://drive.google.com/file/d/1qjjGk2r3crWIksJ7vJPQpGmmbd7xAhRM/view?usp=sharing
